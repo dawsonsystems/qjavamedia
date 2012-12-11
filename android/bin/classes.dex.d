@@ -1,0 +1,27 @@
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes.dex : \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub$Proxy.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/ministro/IMinistro.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/ministro/IMinistro$Stub$Proxy.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback$Stub.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QSimpleAudioPlayer.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1$1.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$3.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$4.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$3$1.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R$string.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R$layout.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R$array.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R$attr.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/BuildConfig.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R$drawable.class \
+/home/david/Apps/necessitas/android-sdk/tools/support/annotations.jar \
