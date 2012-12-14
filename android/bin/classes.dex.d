@@ -7,9 +7,10 @@
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/ministro/IMinistroCallback.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$1.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$2.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/VideoActivity.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/VideoActivity$1.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$6.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtApplication$InvokeResult.class \
-/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QSimpleAudioPlayer.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity$5.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtApplication.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/origo/QtActivity.class \
@@ -23,5 +24,6 @@
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R$attr.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/BuildConfig.class \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R$id.class \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/bin/classes/org/kde/necessitas/example/QJavaMedia/R$drawable.class \
 /home/david/Apps/necessitas/android-sdk/tools/support/annotations.jar \

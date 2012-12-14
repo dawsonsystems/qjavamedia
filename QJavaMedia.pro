@@ -59,7 +59,8 @@ OTHER_FILES += \
     android/src/org/kde/necessitas/origo/QtActivity.java \
     android/version.xml \
     android/AndroidManifest.xml \
-    android/src/org/kde/necessitas/origo/QSimpleAudioPlayer.java
+    android/src/org/kde/necessitas/origo/VideoActivity.java \
+    android/res/layout/main.xml
 
 HEADERS += \
     androidmediaplayer.h

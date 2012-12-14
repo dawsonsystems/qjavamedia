@@ -11,6 +11,7 @@
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/res/values-ja/strings.xml \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/res/values-de/strings.xml \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/res/layout/splash.xml \
+/home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/res/layout/main.xml \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/res/values-ro/strings.xml \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/res/values-el/strings.xml \
 /home/david/Development/Source/opensource/linuxmce/QJavaMedia/android/res/values-nb/strings.xml \

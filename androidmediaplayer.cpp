@@ -69,15 +69,15 @@ bool SimpleAndroidMediaPlayer::playUrl(const QString &url)
     return res;
 }
 
-// our native method, it is called by the java code above
-static int addTwoNumbers(JNIEnv * /*env*/, jobject /*thiz*/,int a, int b)
-{
-    return a+b;
-}
+//// our native method, it is called by the java code above
+//static int addTwoNumbers(JNIEnv * /*env*/, jobject /*thiz*/,int a, int b)
+//{
+//    return a+b;
+//}
 
-static JNINativeMethod methods[] = {
-    {"addTwoNumbers", "(II)I", (void *)addTwoNumbers}
-};
+//static JNINativeMethod methods[] = {
+//    {"addTwoNumbers", "(II)I", (void *)addTwoNumbers}
+//};
 
 // this method is called immediately after the module is load
 JNIEXPORT jint JNI_OnLoad(JavaVM* vm, void* /*reserved*/)
